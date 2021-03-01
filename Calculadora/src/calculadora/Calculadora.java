@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author redes
+ * @author redes yo
  * @since 18/02/2021
  * @version version 3.5 18/02/2021
  */
